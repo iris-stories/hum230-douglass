@@ -28,7 +28,7 @@
 # shorter version here, and using the long version as the title of your 
 # homepage (the "title:" in the frontmatter/metadata of index.md).
 
-title: Recovery Hub Digital Edition Template
+title: Christmas Ghosts
 
 #############
 # Site URL #
@@ -37,8 +37,8 @@ title: Recovery Hub Digital Edition Template
 # url for Recovery Hub projects is "https://recoveryhub.github.io/"
 # for non-Recovery Hub projects, check your GitHub Pages URL
 
-baseurl: "/edition_template"
-url: "https://recoveryhub.github.io/"
+baseurl: "/christmas-ghosts"
+url: "https://msmith0913.github.io/"
 
 
 
@@ -50,9 +50,7 @@ url: "https://recoveryhub.github.io/"
 # you can do so using the Markdown file index.md.
 
 description: >- 
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear on your home page, in your document 
-  head meta for Google search results, and in your RSS feed.xml site description.
+  Ghost stories were a mainstay of holiday entertainment at the turn of the 20th century. This tale, written by William Le Queux and published in the _St. Louis Post-Dispatch_ on December 23, 1900, sets a mysterious murder, a Satanic cabaret, and maybe even a revenant against the backdrop of late 19th-century Paris.
 
 
 ####################
@@ -81,7 +79,6 @@ description: >-
 # Configure your links here:
 
 header_pages:  
-  - "paratext/docs/1-documentation.md"
   - "paratext/docs/all-pages.html"
 
 
@@ -120,16 +117,15 @@ editor: Editor(s) names here
 # appear on the site, remove the '#" from the beginning of the line.
 
 author:
-  name: Your name(s)
-  email: contact-email@example.com
-  institution: Your institution(s) or organization(s)
+  name: Margaret K. Smith
+  institution: Southern Illinois University Edwardsville
 
 #privacy_notice: https://www.example.com/your-privacy-notice-url
 
 #twitter_username: YourUsername
-github_username:  YourUsername
+github_username:  msmith0913
 #dribbble_username: YourUsername
-facebook_username: YourUsername
+#facebook_username: YourUsername
 #flickr_username: YourUsername
 #instagram_username: YourUsername
 #linkedin_username: YourUsername
