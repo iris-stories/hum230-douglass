@@ -50,7 +50,7 @@ url: "https://msmith0913.github.io/"
 # you can do so using the Markdown file index.md.
 
 description: >- 
-  Ghost stories were a mainstay of holiday entertainment at the turn of the 20th century. This tale, written by William Le Queux and published in the *St. Louis Post-Dispatch* on December 23, 1900, sets a mysterious murder, a Satanic cabaret, and maybe even a revenant against the backdrop of late 19th-century Paris.
+  Ghost stories were a mainstay of holiday entertainment at the turn of the 20th century. This tale, written by William Le Queux and published in the <i>St. Louis Post-Dispatch</i> on December 23, 1900, sets a mysterious murder, a Satanic cabaret, and maybe even a revenant against the backdrop of late 19th-century Paris.
 
 
 ####################
@@ -90,8 +90,8 @@ header_pages:
 # banner_size sets the width of the image. "half" is the default. 
 # For a full-width image, use banner_size: "full" instead.
 
-banner_image: assets/images/banner.jpg
-banner_alt_text: Recovery Hub of American Women Writers with quill icon and pages of a book in the background
+banner_image: assets/images/montmartre/marley_dickens.jpg
+banner_alt_text: An illustration from a 19th century edition of A Christmas Carol, in which Jacob Marley's ghost visits Scrooge.
 banner_size: "half" # change to "full" if you want a full-width image
 
 
