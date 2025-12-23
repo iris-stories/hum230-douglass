@@ -50,7 +50,7 @@ url: "https://msmith0913.github.io/"
 # you can do so using the Markdown file index.md.
 
 description: >- 
-  Ghost stories were a mainstay of holiday entertainment at the turn of the 20th century. This tale, written by William Le Queux and published in the _St. Louis Post-Dispatch_ on December 23, 1900, sets a mysterious murder, a Satanic cabaret, and maybe even a revenant against the backdrop of late 19th-century Paris.
+  Ghost stories were a mainstay of holiday entertainment at the turn of the 20th century. This tale, written by William Le Queux and published in the *St. Louis Post-Dispatch* on December 23, 1900, sets a mysterious murder, a Satanic cabaret, and maybe even a revenant against the backdrop of late 19th-century Paris.
 
 
 ####################
@@ -104,7 +104,7 @@ banner_size: "half" # change to "full" if you want a full-width image
 # If you decide to set a default here, you can still override it on individual 
 # items by filling in "file_edited_by:" in the item's frontmatter/metadata.
 
-editor: Editor(s) names here
+# editor: Editor(s) names here
 
 
 
