@@ -22,5 +22,3 @@ title: Ghosts of Christmas Past
 # start with Heading 2.
 
 ---
-
-[Read "The Mystery of Montmartre"]()
