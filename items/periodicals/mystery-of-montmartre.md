@@ -30,11 +30,11 @@ By William Le Queux
 
 Christmas! Chrsitmas [sic] here again. Mention of the feast stirs my memory and causes me certain twinges of conscience.
 
-In those days I was one of a crowd of reckless law students who lived high up in those dingy houses in the Rue Cassette[^ref2]. Three of us lived together in those rickety dirt-begrimed rooms on the fifth floor in the Rue Cassette—No. 11, to be exact. The names of my companions were Fremont and Duqusne [sic].
+In those days I was one of a crowd of reckless law students who lived high up in those dingy houses in the Rue Cassette.[^ref2] Three of us lived together in those rickety dirt-begrimed rooms on the fifth floor in the Rue Cassette—No. 11, to be exact. The names of my companions were Fremont and Duqusne [sic].
 
 ![A photo of a narrow street lined with tall buildings](https://msmith0913.github.io/christmas-ghosts/assets/images/montmartre/rue_cassette.jpg "Rue Cassette, photo by Wikimedia user Chabe01, https://commons.wikimedia.org/wiki/File:Rue_Cassette_Paris_2.jpg")
 
-This record of adventure, however, mainly concerns another. That other was Pierrette[^ref3], the dark-eyed, neat-ankled modiste employed at Carlier’s atelier in the Rue-de-la-Paix.
+This record of adventure, however, mainly concerns another. That other was Pierrette,[^ref3] the dark-eyed, neat-ankled modiste employed at Carlier’s atelier in the Rue-de-la-Paix.
 
 Every man who wore the black velvet cap of the “Verveau de Paris”[^ref4] knew Pierrette, and all treated her with respect, for she never went to the Lorraine or places of that stamp, and in her room over the Rue Lepic lived her younger sister, who was a confirmed invalid. Pierette [sic] supported her upon her slender earnings.
 
@@ -170,7 +170,7 @@ Many times since my student days have I been in Paris and wandered about Montmar
 
 ---
 
-The denouement of the strange drama in Montmartre only occurred last July, and a remarkable denouement it proved to be. My own wanderings had taken me back to Paris to pilot some English friends around the exhibition, and having done most of the attractions, from the moving sidewalk to the Algerian dances[^ref8], it was suggested that I should take them to see other “sights.” Rather ungraciously, I believe, I consented to take them for an evening up to my old student haunts in Montmartre and show them the cabarets and “bals-musette,”[^ref9] which the ordinary visitor to Paris never sees.
+The denouement of the strange drama in Montmartre only occurred last July, and a remarkable denouement it proved to be. My own wanderings had taken me back to Paris to pilot some English friends around the exhibition, and having done most of the attractions, from the moving sidewalk to the Algerian dances,[^ref8] it was suggested that I should take them to see other “sights.” Rather ungraciously, I believe, I consented to take them for an evening up to my old student haunts in Montmartre and show them the cabarets and “bals-musette,”[^ref9] which the ordinary visitor to Paris never sees.
 
 We commenced the cabarets of Bruant, “Les Quatr-z-Arts” and “Le Treteau de Tabarin;” we visited that gruesome undertaker’s shop called the “Cabaret of Death;” spent a quarter of an hour at the tribunal comique at Le Carillon, looked in at the bal-musette in the Rue Coustou, one of the most dangerous but most interesting in Paris, and at midnight took a drink on the terrasse of the “Dead Rat,” before passes the whole panorama of the gaslit gayety of Montmartre.[^ref10]
 
