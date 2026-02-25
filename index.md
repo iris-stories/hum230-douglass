@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Ghosts of Christmas Past
+title: Frederick Douglass on the Dred Scott Decision
 
 # The homepage template includes title, banner image, and short description. 
 # Edit these in `_config.yml`, not in this file.
