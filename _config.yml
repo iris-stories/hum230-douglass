@@ -28,7 +28,7 @@
 # shorter version here, and using the long version as the title of your 
 # homepage (the "title:" in the frontmatter/metadata of index.md).
 
-title: The Mystery of Montmartre, a Christmas ghost story
+title: Frederick Douglass on the Dred Scott Decision
 
 #############
 # Site URL #
@@ -37,8 +37,8 @@ title: The Mystery of Montmartre, a Christmas ghost story
 # url for Recovery Hub projects is "https://recoveryhub.github.io/"
 # for non-Recovery Hub projects, check your GitHub Pages URL
 
-baseurl: "/christmas-ghosts"
-url: "https://msmith0913.github.io/"
+baseurl: "/hum230-douglass"
+url: "https://iris-stories.github.io/"
 
 
 
@@ -50,7 +50,7 @@ url: "https://msmith0913.github.io/"
 # you can do so using the Markdown file index.md.
 
 description: >- 
-  Ghost stories were a mainstay of holiday entertainment at the turn of the 20th century. This tale, written by William Le Queux and published in the <i>St. Louis Post-Dispatch</i> on December 23, 1900, sets a mysterious murder, a Satanic cabaret, and maybe even a revenant against the backdrop of late 19th-century Paris.<br><br><a href=https://msmith0913.github.io/christmas-ghosts/mystery-of-montmartre><h2>Read "The Mystery of Montmartre"</h2></a>
+  One of our goals in this course is to use digital tools to interrogate our local community. Today, we’re looking at Frederick Douglass’s speech on the Dred Scott decision, the result of a case heard in St. Louis and very much wrapped up in the Missouri-Illinois border region that we occupy today. The decision denied emancipation to Dred and Harriet Scott, an enslaved husband and wife who had been relocated for several years to Illinois and Wisconsin before being brought back to Missouri, on the basis that the Constitution denied citizenship to African Americans and that the Scotts had no standing in court. It rightfully sparked national outcry. In this speech, Douglass (a noted Black orator, writer, and public intellectual) decried the decision.
 
 
 ####################
@@ -90,8 +90,8 @@ header_pages:
 # banner_size sets the width of the image. "half" is the default. 
 # For a full-width image, use banner_size: "full" instead.
 
-banner_image: assets/images/montmartre/marley_dickens.jpg
-banner_alt_text: An illustration from a 19th century edition of A Christmas Carol, in which Jacob Marley's ghost visits Scrooge.
+banner_image: assets/images/douglass/douglass.jpg
+banner_alt_text: A portrait of Frederick Douglass
 banner_size: "half" # change to "full" if you want a full-width image
 
 
@@ -123,7 +123,7 @@ author:
 #privacy_notice: https://www.example.com/your-privacy-notice-url
 
 #twitter_username: YourUsername
-github_username:  msmith0913
+github_username:  iris-stories
 #dribbble_username: YourUsername
 #facebook_username: YourUsername
 #flickr_username: YourUsername
